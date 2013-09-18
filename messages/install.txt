@@ -1,0 +1,8 @@
+SCRIBE: MORE KEYBINDINGS
+========================
+
+Description:
+	This package adds additional keybindings and menu items
+
+Usage:
+	- String Case, "Scribe Inc. > String Case" menu item

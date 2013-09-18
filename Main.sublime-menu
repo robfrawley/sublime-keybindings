@@ -1,0 +1,32 @@
+[
+    {
+        "caption": "Scribe Inc.",
+        "id": "scribe",
+        "children":
+        [
+            {
+                "caption": "String Case",
+                "mnemonic": "C",
+                "id": "scribe_case",
+                "children": [
+                    {
+                        "caption": "Title Case",
+                        "command": "title_case"
+                    },
+                    {
+                        "caption": "To Upper",
+                        "command": "upper_case"
+                    },
+                    {
+                        "caption": "To Lower",
+                        "command": "lower_case"
+                    },
+                    {
+                        "caption": "Swap Case",
+                        "command": "swap_case"
+                    }
+                ]
+            }
+        ]
+    }
+]
