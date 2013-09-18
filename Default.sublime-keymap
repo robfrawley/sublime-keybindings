@@ -14,5 +14,13 @@
 	{	
 		"keys": ["ctrl+alt+8"], 
 		"command": "lower_case"
+	},
+	{
+		"keys": ["ctrl+alt+s"],
+		"command": "save_all"
+	},
+	{
+		"keys": ["ctrl+shift+w"],
+		"command": "close_all"
 	}
 ]

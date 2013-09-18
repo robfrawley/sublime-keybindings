@@ -6,3 +6,5 @@ Description:
 
 Usage:
 	- String Case, "Scribe Inc. > String Case" menu item
+	- Save All "Ctrl+Alt+S"
+	- Close All "Ctrl+Shift+W"
