@@ -1,4 +1,4 @@
-# Sublime Text: Keybinding
+# Sublime Text: Key-bindings
 A collection of helpful key-bindings for simplifying e-book development
 
 ## Location
