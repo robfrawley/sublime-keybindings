@@ -12,4 +12,4 @@ Usage:
 		- Ctrl+Alt+7, Switch Case
 	- Ctrl+Alt+S, Save All
 	- Ctrl+Shift+C, Close All
-	- "Ctrl+Shift+W, Toggle Word Wrap
+	- Ctrl+Shift+W, Toggle Word Wrap
