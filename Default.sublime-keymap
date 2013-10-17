@@ -20,7 +20,14 @@
 		"command": "save_all"
 	},
 	{
-		"keys": ["ctrl+shift+w"],
+		"keys": ["ctrl+shift+c"],
 		"command": "close_all"
+	},
+	{ 
+		"keys": ["ctrl+shift+w"], 
+		"command": "toggle_setting", 
+		"args": {
+			"setting": "word_wrap"
+		} 
 	}
 ]
