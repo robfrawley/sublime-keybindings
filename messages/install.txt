@@ -6,5 +6,10 @@ Description:
 
 Usage:
 	- String Case, "Scribe Inc. > String Case" menu item
-	- Save All "Ctrl+Alt+S"
-	- Close All "Ctrl+Shift+W"
+		- Ctrl+Alt+0, Title Case
+		- Ctrl+Alt+9, Upper Case
+		- Ctrl+Alt+8, Lower Case
+		- Ctrl+Alt+7, Switch Case
+	- Ctrl+Alt+S, Save All
+	- Ctrl+Shift+C, Close All
+	- "Ctrl+Shift+W, Toggle Word Wrap
